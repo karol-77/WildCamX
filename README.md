@@ -1,4 +1,4 @@
-# WildCam
+# WildCamX
 
 Kamera służąca do wykrywania zwierząt w lesie poprzez czujnik ruchu.
 
