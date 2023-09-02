@@ -1,0 +1,17 @@
+Kamera służąca do wykrywania zwierząt w lesie poprzez czujnik ruchu.
+
+1.Procesor kontrojący elementy
+
+2.Akumulator
+
+3.Panele słoneczne
+
+4.System wykrywający ruch
+
+5.Oświetlenie IR
+
+6.Kamera
+
+7.Modem LTE
+
+8.Mikrokontroler wybudzający procesor w razie wykrycia ruchu
