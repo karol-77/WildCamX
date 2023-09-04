@@ -1,4 +1,6 @@
 # WildCamX
+![image](https://github.com/karol-77/WildCamX/assets/73350901/10eed231-5f6d-4524-bbc3-6bd7c4f90a14)
+
 
 Kamera służąca do wykrywania zwierząt w lesie poprzez czujnik ruchu.
 
