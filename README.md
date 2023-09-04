@@ -1,9 +1,10 @@
 # WildCamX
-![image](https://github.com/karol-77/WildCamX/assets/73350901/10eed231-5f6d-4524-bbc3-6bd7c4f90a14)
-
 
 Kamera służąca do wykrywania zwierząt w lesie poprzez czujnik ruchu.
 
+## Schemat blokowy 
+
+![image](BlockDiagram/WildCamx-BlockDiagram.svg)
 
 ## Elementy systemu 
 1. Procesor kontrojący elementy - głowny element kontrolujący inne elementy, oraz przechwytujący obraz z kamery
@@ -14,6 +15,7 @@ Kamera służąca do wykrywania zwierząt w lesie poprzez czujnik ruchu.
 6. Przetwornik obrazu (czujnik optyczny, kamera)  
 7. Modem LTE - do przesyłania filmów na inne urządzenia
 8. Mikrokontroler wybudzający procesor w razie wykrycia ruchu 
+
 
 ## Opis działania
 System ma się wybudzać w razie wykrycia ruchu w celu zwiększenia żywotności baterii. Kamera będzie włączać nagrywanie na 1 minutę a następnie ponownie przechodzić w stan uśpienia.
